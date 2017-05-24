@@ -1,5 +1,5 @@
 # EasyPR
-
+http://www.cnblogs.com/yymn/p/4716160.html【其他相关图像识别技术学习链接网址】
 EasyPR是一个开源的中文车牌识别系统，其目标是成为一个简单、高效、准确的非限制场景(unconstrained situation)下的车牌识别库。
 
 相比于其他的车牌识别系统，EasyPR有如下特点：
